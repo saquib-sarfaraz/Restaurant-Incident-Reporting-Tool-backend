@@ -346,16 +346,8 @@ GET /api/incidents?search=POS
 - Audit logs for compliance
 - Advanced analytics + forecasting
 
----
 
-## 👤 Author
 
-**Saquib Sarfaraz**  
-B.Tech Computer Science Engineering — Jamia Hamdard
-
-- GitHub: _Add your GitHub URL_
-- LinkedIn: _Add your LinkedIn URL_
-- Portfolio: _Add your portfolio URL_
 
 ---
 
